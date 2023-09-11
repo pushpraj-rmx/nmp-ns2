@@ -622,7 +622,7 @@
 				<div class="xis-dia-skill-img-progress d-flex  justify-content-end position-relative">
 					<span class="skill-side-shape position-absolute"><img src="assets/img/digital_f/shape/sk-sh1.png" alt></span>
 					<div class="xis-dia-skill-img position-absolute wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-						<img src="assets/img/digital_f/about/ab5.png" alt>
+						<img src="./assets/img/digital_f/about/ab5.png" alt>
 					</div>
 					<div class="xis-dia-skill-text-progress">
 						<div class="xis-dia-skill-text">
