@@ -1,0 +1,26 @@
+.saasio-breadcurmb-section {
+    /* background-image: ; */
+    background: linear-gradient(to right, #c12dd1bb, #6d8bf8c1), url(../../assets/img/app-landing/shape/s-shape2.png), url(../../assets/img/app-landing/shape/s-shape3.png);
+    /* ./assets/img/app-landing/shape/s-shape2.png */
+}
+
+
+.str-about-section .str-about-content .str-about-list li:before {
+    top: 0;
+    left: 0;
+    color: #6e24c8;
+    content: "";
+    font-weight: 900;
+    position: absolute;
+    font-family: "Font Awesome 5 Free";
+}
+
+
+.str-about-section {
+    background-color: #edf2f900;
+    padding: 115px 0px 10px;
+}
+
+.section-padding {
+    margin-top: 100px;
+}
