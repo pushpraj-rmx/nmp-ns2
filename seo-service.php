@@ -65,7 +65,7 @@
 
     <!-- Start of header section
         ============================================= -->
-    <?php include 'header.php' ?>
+    <?php include __DIR__ . '/includes/header.php' ?>
     <!-- End of header section
         ============================================= -->
 
@@ -946,7 +946,7 @@
 
     <!-- Start of footer section
         ============================================= -->
-    <?php include 'footer.php' ?>
+    <?php include __DIR__ . '/includes/footer.php' ?>
     <!-- End of footer section 
         ============================================= -->
 

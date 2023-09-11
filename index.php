@@ -55,10 +55,10 @@
 	</div>
 	<!-- Start of header section
     	============================================= -->
-	<?php include 'header.php' ?>
+	<?php include __DIR__ . '/includes/header.php'; ?>
 	<!-- End of header section
     	============================================= -->
-	<?php include 'includes/popup-form.php' ?>
+	<?php include  __DIR__ . '/includes/popup-form.php' ?>
 
 	<!-- Start of Banner section
     	============================================= -->
@@ -1700,7 +1700,7 @@
 
 	<!-- Start of Footer  section
       	============================================= -->
-	<?php include 'footer.php' ?>
+	<?php include __DIR__ . '/includes/footer.php' ?>
 
 	<!-- End of Footer  section
       	============================================= -->

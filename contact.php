@@ -34,7 +34,7 @@
     </div>
     <!-- Start of header section
     	============================================= -->
-    <?php include 'header.php' ?>
+    <?php include __DIR__ . '/includes/header.php' ?>
     <!-- End of header section
     	============================================= -->
 
